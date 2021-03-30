@@ -31,7 +31,8 @@
  - point 1) 단일 데이터셋의 반복적 모델학습
  - point 2) machine state를 binary or int 값으로 설정
  - Train loss
- ![image](https://user-images.githubusercontent.com/78070883/112933539-04972d80-915b-11eb-9b7d-16caa0ebe075.png)
+ ![image](https://user-images.githubusercontent.com/78070883/112933597-1ed10b80-915b-11eb-8b7a-ebb4a0fd6f6d.png)
+
 
 
 
