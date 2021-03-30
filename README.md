@@ -20,6 +20,8 @@
  - machine 마다 state 를 표현하기 위해 job_types의 변화유무와 납기일이 초과되었는지를 명시
  - reward = 50 + (-50*job_change) + (-5*violation_due_date) (job_change : job_type이 변화했는지의 유무, violation_due_date : 얼마나 납기일을 여겼는지의 int 형 변수)
  - train loss
+ 
+ 
  ![image](https://user-images.githubusercontent.com/78070883/112932087-483c6800-9158-11eb-8fc4-a7fdae107daf.png)
 
 
